@@ -1,9 +1,14 @@
 <h1  align="center">Hi, This is Soomin Korp👋</h1>
-<h3  align="center">💻 Software Engineer | ☁️ Cloud & Backend Focused | 🤖 AI/ML Enthusiast  </h3>
+<h3  align="center">💻 Software Engineer | ☁️ Cloud & Backend Focused | 🤖 AI/ML Enthusiast  </h3> | B.S. in Software Engineering
 <h4  align="cneter"> I'm a software engineer with a strong foundation in backend development, cloud systems, and machine learning.  
 I enjoy building real-world applications with clean architecture and reliable APIs. </h4>
 <h5  aling="left">  
-  
+ 
+<p align="left">
+  <a href="https://www.linkedin.com/in/soomin-korp">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white" />
+  </a>
+</p> 
 💻 **Tech Stack Highlights:**
 - Backend: Java, Spring Boot, REST API, MySQL, JPA
 - Frontend: React, HTML/CSS, Bootstrap
@@ -15,7 +20,7 @@ I enjoy building real-world applications with clean architecture and reliable AP
 - Building full-stack systems with modern best practices
 - Clean, testable, and scalable code
 - Applying AI/ML to practical use cases
-- Contributing to open source and team collaboration </h5>
+- Contributing to open source and team collaboration</h5>
 
 
 <h5 align="left">Languages and Tools:</h5>
