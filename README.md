@@ -1,5 +1,5 @@
 <h1  align="center">Hi, This is Soomin Korp👋</h1>
-<h3  align="center">💻 Software Engineer | ☁️ Cloud & Backend Focused | 🤖 AI/ML Enthusiast  </h3> | B.S. in Software Engineering
+<h3  align="center">💻 Full-stack Engineer | ☁️ Cloud & Backend Focused | 🤖 AI/ML Enthusiast  </h3> | B.S. in Software Engineering
 <h4  align="cneter"> I'm a software engineer with a strong foundation in backend development, cloud systems, and machine learning.  
 I enjoy building real-world applications with clean architecture and reliable APIs. </h4>
 <h5  aling="left">  
@@ -10,21 +10,15 @@ I enjoy building real-world applications with clean architecture and reliable AP
   </a>
 </p> 
 💻 **Tech Stack Highlights:**
-<h5>Languages: Java, Python, SQL, TypeScript</h5>
-<h5>Backend: Spring Boot, REST API, JPA, Hibernate, Spring Security</h5>
-<h5>Frontend: Angular, HTML, CSS, Bootstrap</h5>
-<h5>Mobile: Android SDK, Room, LiveData, MVVM</h5>
-<h5>Database: MySQL, SQLite</h5>
-<h5>DevOps/Tools: Git, GitHub, GitLab, Postman, Docker, GitHub Actions, JUnit, Mockito</h5>
-<h5>Others: Internationalization (i18n), Time Zone Handling, Currency Formatting</h5>
+<h5>Languages: Python, JavaScript, Java, SQL, HTML/CSS</h5>
+<h5>Frameworks: Flask, Spring Boot, React, Android SDK </h5>
+<h5>AI & ML Tools: scikit-learn, pandas, GitLab CI/CD </h5>
+<h5>Cloud: AWS (Certified Cloud Practitioner), MySQL, MongoDB</h5>
+<h5>DevOps: Postman, Git, Github, Gitlab, IntelliJ, Docker </h5>
+<h5>Systems: Linux CLI, basic Kubernetes/Spark awareness</h5>
+<h5>Concepts: OOP, REST APIs, data structures & algorithms, CI/CD, async programming</h5>
 
 
-
-🚀 **Interests:**
-- Building full-stack systems with modern best practices
-- Clean, testable, and scalable code
-- Applying AI/ML to practical use cases
-- Contributing to open source and team collaboration</h5>
 
 
 <h5 align="left">Languages and Tools:</h5>
