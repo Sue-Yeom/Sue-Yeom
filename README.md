@@ -10,11 +10,15 @@ I enjoy building real-world applications with clean architecture and reliable AP
   </a>
 </p> 
 💻 **Tech Stack Highlights:**
-- Backend: Java, Spring Boot, REST API, MySQL, JPA
-- Frontend: React, HTML/CSS, Bootstrap
-- Mobile: Android SDK, Java, SQLite
-- Data & ML: Python, scikit-learn, pandas
-- Tools: Git, GitHub, GitLab CI/CD, Postman, JUnit
+<h5>Languages: Java, Python, SQL, TypeScript</h5>
+<h5>Backend: Spring Boot, REST API, JPA, Hibernate, Spring Security</h5>
+<h5>Frontend: Angular, HTML, CSS, Bootstrap</h5>
+<h5>Mobile: Android SDK, Room, LiveData, MVVM</h5>
+<h5>Database: MySQL, SQLite</h5>
+<h5>DevOps/Tools: Git, GitHub, GitLab, Postman, Docker, GitHub Actions, JUnit, Mockito</h5>
+<h5>Others: Internationalization (i18n), Time Zone Handling, Currency Formatting</h5>
+
+
 
 🚀 **Interests:**
 - Building full-stack systems with modern best practices
